@@ -1,3 +1,3 @@
-extract_tweets.ipynb 
-
+# Ignore specific notebooks
+extract_tweets.ipynb
 sentiment_analysis.ipynb
