@@ -9,5 +9,6 @@ With Sentiment Analyisis we can automate the process of tagging data according t
 ### The Topic: Super Bowl Sentiment Analysis
 This project focuses on analyzing the sentiment surrounding the Super Bowl LVII Halftime Show. By analyzing public comments on social media platforms, we aim to understand the overall sentiment towards the show, identify key themes and trends in the conversation, and potentially uncover insights into the audience's preferences.
 
+### Data Collection
 
-
+This project utilizes the YouTube Data API to extract comments and their replies related to the Super Bowl LVII Halftime Show. A script was developed to efficiently retrieve this data, ensuring a comprehensive dataset of public opinion.
