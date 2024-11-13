@@ -1,3 +1,8 @@
 # Ignore specific notebooks
 extract_tweets.ipynb
 sentiment_analysis.ipynb
+API Key.txt
+SB-LVII/ # this isthe env
+__pycache__/
+keys.py
+youtube_comments.csv
